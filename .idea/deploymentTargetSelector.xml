@@ -8,7 +8,11 @@
       <SelectionState runConfigName="FormLoginPreview">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+<<<<<<< HEAD
       <SelectionState runConfigName="FormRegisterPreview">
+=======
+      <SelectionState runConfigName="AnimatedBorderCardPreview">
+>>>>>>> dc6f6f3c3ef76b2e4ee7517516ce6ea72f580cab
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
